@@ -1,3 +1,5 @@
+//par Haby Diallo
+
 struct facture{
 	int numero;
 	float montant;
