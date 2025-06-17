@@ -1,3 +1,5 @@
+//par Haby Diallo
+
 float mintab(struct facture tab[N]){
     int i;
     float min=tab[0].montant;
