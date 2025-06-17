@@ -1,3 +1,5 @@
+//par Haby Diallo
+
 float maxtab(struct facture tab[N]) {
     int i;
     float max = tab[0].montant;
