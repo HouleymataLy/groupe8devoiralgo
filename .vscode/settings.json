@@ -1,0 +1,7 @@
+{
+    "files.associations": {
+        "sommeparobjet.C": "cpp",
+        "factureparetudiant.C": "cpp",
+        "main.C": "cpp"
+    }
+}
